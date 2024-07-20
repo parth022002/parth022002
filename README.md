@@ -41,7 +41,7 @@
 
 - 💬 Ask me about **PHP, JavaScript, Web Development**
 
-- 📫 How to reach me **parth.ahuja@example.com**
+- 📫 How to reach me **parthahuja021102@gmail.com**
 
 - ⚡ Fun fact **I love smoothies and I am a vegetarian**
 
