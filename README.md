@@ -92,13 +92,21 @@
 
 <h3 align="left">📫 Connect With Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/parth-ahuja-189831225/" target="_blank"><img align="center" width="40" height="40" src="https://img.icons8.com/fluency/40/linkedin.png" alt="Linked"/></a>
-  <a href="https://www.instagram.com/parth._.ahuja/" target="_blank"><img align="center" width="40" height="40" src="https://img.icons8.com/fluency/40/instagram-new.png" alt="instagram"/></a>
-  <a href="https://leetcode.com/parthahuja021102/" target="_blank"><img align="center" width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=parthahuja021102@gmail.com" target="_blank">
-  <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/>
-</a>
-  <a href="https://x.com/Parth_ahuja_" target="_blank"><img align="center" width="40" height="40" src="https://img.icons8.com/ios-filled/40/twitterx--v1.png" alt="twitterx--v1"/></a>
+    <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parth-ahuja-189831225/" target="_blank">
+    <img align="center" width="40" height="40" src="https://img.icons8.com/fluency/40/linkedin.png" alt="Linked"/>
+  </a>
+  <a href="https://www.instagram.com/parth._.ahuja/" target="_blank">
+    <img align="center" width="40" height="40" src="https://img.icons8.com/fluency/40/instagram-new.png" alt="instagram"/>
+  </a>
+  <a href="https://leetcode.com/parthahuja021102/" target="_blank">
+    <img align="center" width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
+  <a href="https://x.com/Parth_ahuja_" target="_blank" >
+    <img align="center"  width="40" height="40" src="https://img.icons8.com/ios-filled/40/twitterx--v1.png" alt="twitter"/>
+  </a>
 </p>
 
 ---
