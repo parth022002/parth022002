@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Parth Ahuja</h1>
 <h3 align="center">Aspiring Software Developer from <b>India</b></h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parth022002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=parth022002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
 ---
 
 <h3 align="left">🚀 About Me</h3>
+<p>
+  I'm a passionate and dedicated Computer Science graduate with a keen interest in pursuing a career in IT management. With a solid foundation in software development and a strong inclination towards data analysis and visualization, I aim to bridge the gap between technology and business.
+</p>
 <ul>
   <li>🎓 <b>Education:</b> BE in Computer Science</li>
   <li>🎯 <b>Career Goal:</b> Aspiring IT Manager</li>
   <li>🌱 <b>Currently Learning:</b> Advanced Data Structures and Algorithms, IT Management Strategies</li>
-  <li>💼 <b>Working on:</b> Python and Web Development</li>
-  <li>🤝 <b>Looking to Collaborate on:</b> Open Source Projects</li>
+  <li>🔭 <b>Currently Working On:</b> Python and Web Development</li>
+  <li>🌱 <b>Learning:</b> PHP, Bootstrap, JavaScript, Python</li>
+  <li>🤝 <b>Looking to Collaborate On:</b> Open Source Projects</li>
   <li>🔍 <b>Seeking Help With:</b> Advanced Web Development Techniques</li>
   <li>💬 <b>Ask Me About:</b> PHP, JavaScript, Web Development</li>
+  <li>📫 <b>How to Reach Me:</b> parthahuja021102@gmail.com</li>
   <li>⚡ <b>Fun Fact:</b> I love smoothies and I'm a vegetarian</li>
 </ul>
 
@@ -36,9 +39,17 @@
 
 ---
 
+<h3 align="left">🏆 Trophies</h3>
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=parth022002&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
 <h3 align="left"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Leetcode"/> Leetcode Info</h3>
 
-<p align="center"><img width="390" src="https://leetcard.jacoblin.cool/parthahuja021102?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
+<p align="center">
+  <img width="390" src="https://leetcard.jacoblin.cool/parthahuja021102?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
 </p>
 
 <p align="center">
@@ -79,18 +90,14 @@
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
+<h3 align="left">📫 Connect With Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/parth-ahuja" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://twitter.com/parth_ahuja" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/parth_ahuja021102" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30"/>
-  </a>
-  <a href="https://leetcode.com/parthahuja021102/" target="_blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="30" width="30"/>
-  </a>
+  <a href="https://www.linkedin.com/in/parth-ahuja" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/fluency/40/linkedin.png" alt="Linked"/></a>
+  <a href="https://www.instagram.com/parth_ahuja021102" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/fluency/40/instagram-new.png" alt="instagram"/></a>
+  <a href="https://leetcode.com/parthahuja021102/" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="mailto:parthahuja021102@gmail.com" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/color/40/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://twitter.com/parth_ahuja" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/ios-filled/40/twitterx--v1.png" alt="twitterx--v1"/></a>
 </p>
+
+---
+
